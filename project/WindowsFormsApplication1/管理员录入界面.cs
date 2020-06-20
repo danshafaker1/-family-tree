@@ -10,26 +10,33 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
-    public partial class 用户主界面 : Form
+    public partial class 管理员录入界面 : Form
     {
-        public 用户主界面()
+
+        public 管理员录入界面()
         {
             InitializeComponent();
+
+    
+
+        }
+
+        private void 管理员录入界面_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void trackBar1_Scroll(object sender, EventArgs e)
+        {
+
         }
 
         private void label1_Click(object sender, EventArgs e)
         {
 
         }
+  
+       
+        }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-    }
 }

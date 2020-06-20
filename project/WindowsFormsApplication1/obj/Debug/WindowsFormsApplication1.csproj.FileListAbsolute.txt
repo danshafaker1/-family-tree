@@ -8,3 +8,6 @@ F:\Job\famliytree\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplica
 F:\Job\famliytree\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 F:\Job\famliytree\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 F:\Job\famliytree\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Job\famliytree\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.用户主界面.resources
+F:\Job\famliytree\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.管理员主界面.resources
+F:\Job\famliytree\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.管理员录入界面.resources
