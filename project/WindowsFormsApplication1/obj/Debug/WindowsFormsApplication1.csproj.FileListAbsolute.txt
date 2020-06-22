@@ -11,3 +11,4 @@ F:\Job\famliytree\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplica
 F:\Job\famliytree\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.用户主界面.resources
 F:\Job\famliytree\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.管理员主界面.resources
 F:\Job\famliytree\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.管理员录入界面.resources
+F:\Job\famliytree\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.添加界面.resources

@@ -45,6 +45,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="添加界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="添加界面.Designer.cs">
+      <DependentUpon>添加界面.cs</DependentUpon>
+    </Compile>
     <Compile Include="用户主界面.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +86,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="添加界面.resx">
+      <DependentUpon>添加界面.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="用户主界面.resx">
       <DependentUpon>用户主界面.cs</DependentUpon>
     </EmbeddedResource>
