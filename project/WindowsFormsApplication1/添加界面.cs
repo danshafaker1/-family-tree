@@ -114,5 +114,10 @@ namespace WindowsFormsApplication1
             }
             pictureBox1.ImageLocation = a;
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
         }
     }
